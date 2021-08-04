@@ -7,7 +7,7 @@
   outline-offset: -10px;
 }
 .ip-remote__title {
-  margin: 0 0 5px 0;
+  margin: 0 0 10px 0;
   font-size: 22px;
   line-height: 29px;
   color: #64a104;
@@ -16,8 +16,9 @@
   text-align: center;
 }
 .ip-remote__subtitle {
-  font-size: 22px;
-  line-height: 26px;
+  margin: 0 0 10px 0;
+  font-size: 16px;
+  line-height: 1;
   font-weight: 300;
 }
 .ip-remote__items {
@@ -55,5 +56,5 @@
 .ip-remote__text {
   margin-top: 5px;
   padding-left: 70px;
-  max-width: 200px;
+  max-width: 230px;
 }
